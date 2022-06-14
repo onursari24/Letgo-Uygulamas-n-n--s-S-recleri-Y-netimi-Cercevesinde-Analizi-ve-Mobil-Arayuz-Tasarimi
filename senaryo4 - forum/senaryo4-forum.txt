@@ -1,0 +1,5 @@
+Kullanıcı uygulamaya giriş yapar. Uygulama arayüzü üzerinden forum sekmesine girer ve forum sayfası üzerinden ilgili gönderileri inceleyebilir.
+Kullanıcı ileti yazmak ister ise "İleti Yaz" butonuna tıklar. Kullanıcı profil bilgileri doğru değil ise uygulama kullanıcıya hata mesajı gönderir ve
+kullanıcı profil bilgilerini güncelleme seçeneğine yönlendirilir. Kullanıcı profil bilgilerini günceller, girilen profil bilgileri doğru ise İletisini yazabilir.
+Yazılan ileti uygulama tarafından incelenir. İleti içeriğinde herhangi bir yanlış ifade yoksa forumda yayınlanır. Yayınlanan iletiler diğer kullanıcılar
+tarafından isteğe bağlı olarak değerlendirilir ve süreç sona erer.

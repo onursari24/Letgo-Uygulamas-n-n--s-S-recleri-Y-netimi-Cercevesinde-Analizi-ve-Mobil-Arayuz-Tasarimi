@@ -1,0 +1,6 @@
+Satıcı uygulamaya giriş yapar ve ürün sat sayfasına girer. Uygulama satıcıdan satılacak ürünün bilgilerini girmesini ister. Satıcı ürün bilgilerini uygulamaya girer.
+Girilen bilgiler yanlış ise uygulama kullanıcıya hata mesajı gönderir. Girilen bilgiler doğru ise ilan uygulamada yayınlanır. Kullanıcı ilanları inceler karşılaştırmalı
+fiyatlı ilanları görmek istemez ise ürün için doğrudan satıcıya teklif yapar. Karşılaştırmalı fiyat listesini görmek ister ise uygulama ürünün sıfır fiyat listesini
+arar. Sonuçları kullanıcıya iletir ve kullanıcı sonuçları inceler. İncelemenin ardından kullanıcı teklifi düzenlemek istemez ise planladığı teklifi iletir ve satıcıdan dönüş
+bekler. Teklifini düzenlemek ister ise planladığı teklifi arttırır/azaltır ve satıcıya iletir. Satıcı teklifi inceler, yapılan teklif uygun değilse teklifi reddeder. Yapılan
+teklif uygun ise teklifi onaylar, kullanıcı ile iletişime geçer ve alışveriş tamamlanır.

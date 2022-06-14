@@ -1,0 +1,9 @@
+Kullanıcı uygulamaya giriş yapar. Uygulama üzerinden açık arttırma menüsüne girer ve açık arttırma menüsü üzerinden ürün 
+seçer. Kullanıcı seçilen ürün için satıcıya teklif yapar. Kullanıcının profil bilgileri eksik ise uygulama hata mesajı verir ve kullanıcı,
+profiline yönlendirilir.Kullanıcı, profil bilgilerini günceller; profil bilgileri doğru ve tam ise teklif satıcıya ulaşır. Kullanıcının teklifi 
+satıcı tarafından onaylanmazsa süreç sonlanır. Kullanıcının teklifi satıcı tarafından onaylanır ise uygulama satıcı ve kullanıcının
+iletişimi için otomatik mesaj alanı oluşturur. Oluşturulan mesaj alanı içerisinde, kullanıcı ve satıcı ürünün aktarımı için iletişim kurar.
+Kullanıcı ürünü elden almak ister ise belirlenen tarih ve mekanda alışveriş gerçekleşir. Kullanıcı ürünü kargo yolu ile almak ister ise 
+ürün satıcı tarafından kargoya verilir. Uygulama kargo ulaşıncaya dek kullanıcının ücretini tutar. Kargo kullanıcıya ulaştığında ürün 
+teslimatının yapıldığına dair kullanıcıdan onay alınır. Alınan onay uygulamaya iletilir ve Uygulama tuttuğu ücreti satıcı tarafına 
+aktarma işlemini gerçekleştirir.

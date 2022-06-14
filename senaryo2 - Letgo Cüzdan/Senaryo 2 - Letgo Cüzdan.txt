@@ -1,0 +1,11 @@
+Kullanıcı uygulamaya giriş yapar. Uygulamadan Letgo cüzdan menüsüne girer ve para yatırma seçeneğini seçer. Kullanıcı profil bilgileri
+doğru değil ise uygulama kullanıcıya hata mesajı gönderir ve kullanıcı profil bilgilerini güncelleme seçeneğine yönlendirilir. Kullanıcı profil
+bilgilerini günceller, girilen bilgiler doğru ise Letgo Cüzdan için yatırılacak tutar için kredi kartı bilgilerini girer. Girilen bilgiler yanlış ise
+uygulama kullanıcıya hata mesajı gönderir ve kullanıcıyı kredi kartı bilgilerini tekrar girmesi için ilgili sekmeye yönlendirir. Girilen bilgiler
+doğru ise uygulama kredi kartı bilgilerini onaylar ve kaydeder. Uygulama kullanıcıyı yatırılacak tutar sayfasına yönlendirir. Kullanıcı tutarı
+girer. Girilen tutar kredi kartı limitini aşıyor ise uygulama kullanıcıyı bankaya yönlendirir, banka kullanıcıyı sms yolu ile bilgilendirir ve 
+uygulama kullanıcıdan tutar bilgisini düzeltmesini ister. Girilen tutar kredi kartı limitini aşmıyor ise kullanıcı, uygulamadan onay bekler. 
+Uygulama, ödemenin onaylanması için kullanıcıyı banka sayfasına yönlendirir, banka kullanıcıya sms kodu gönderir. Kullanıcı sms kodunu
+uygulamaya girer. Girilen sms kodu yanlış ise uygulama, kullanıcıya hata mesajı gönderir ve sms kodunu tekrar girmesini ister. Girilen sms
+kodu doğru ise uygulama işlemi onaylar, yatırılan tutarı Letgo Cüzdan'a ekler ve kullanıcıyı bilgilendirir.
+

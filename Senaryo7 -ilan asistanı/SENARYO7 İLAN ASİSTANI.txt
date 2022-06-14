@@ -1,0 +1,5 @@
+Satıcı uygulamaya giriş yapar ve ürün sat sayfasına girer.Uygulama satıcıdan satılacak ürünün bilgilerini girmesini ister. Satıcı ürün bilgilerini uygulamaya girer.
+Girilen bilgiler yanlış ise uygulama kullanıcıya hata mesajı gönderir. Girilen bilgiler doğru ise ilan uygulamada yayınlanır. Yayınlanan ilan satıldı ise ürün uygulama
+tarafından satıldı olarak işaretlenir, ilan 30 günün ardından satılmadı ise uygulama satıcıya "ilan süresi doldu" mesajı gönderir. İlan asistanı kullanılmak istenmez ise
+ilan satıcı tarafından kaldırılır ya da tekrar yayınlanır, satıcı ilan asistanı için onay verir ise ilan ile ilgili istatistikler satıcı ile paylaşılır. Satıcı istatistikleri analiz eder ve
+ilanı farklı bir ücretle tekrar yayınlar. Kullanıcı teklifleri görüntüler teklif uygun değil ise diğer teklifleri görüntüler, teklif uygun ise satıcıya ilan için mesaj gönderir

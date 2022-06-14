@@ -1,0 +1,6 @@
+Kullanıcı uygulamaya giriş yapar ardından ilanları inceler. Anlaşmalı işletmelerin gösterilmesini istemez ise letgo üzerinden satıcıların ilanını inceler. Aranılan ürün
+bulunamadıysa kullanıcı uygulamadan çıkar, bulundu ise satıcıya teklif yapar ve geri dönüş bekler. Anlaşmalı işletmelerin gösterilmesini ister ise uygulama bu 
+işletmeleri bulur ve kullanıcının konumuna yakın olanları sıralar. Kullanıcı işletme ilanlarını inceler, aranılan ürün bulunmadı ise ilan sayfasına geri döner ve ilanları
+tekrar inceler. Aranılan ürün bulundu ise ürünü satın alır. İşletme satın alımı onaylar. Ürün mağazadan teslim edilmeyecekse kargoya verilir ve kullanıcı bilgilendirilir.
+Ürün mağazadan teslim edilecekse kullanıcı için ayırt edilir. Kullanıcı ayırt edilen ürün için gelmez ise ürün tekrar satışa sunulur. Kullanıcı ürün için gelirse ödeme
+gerçekleştirilir ve ürün teslim edilir.

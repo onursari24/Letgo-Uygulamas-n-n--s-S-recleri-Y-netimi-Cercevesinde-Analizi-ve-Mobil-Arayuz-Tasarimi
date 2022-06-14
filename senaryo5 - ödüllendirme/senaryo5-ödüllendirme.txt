@@ -1,0 +1,8 @@
+Kullanıcı uygulamaya giriş yapar ve ürün sat sayfasına girer. Uygulama kullanıcıdan satılacak ürünün kategorilendirmesini ister, kullanıcıya kategori
+seçenekleri sunar.Kullanıcı kategori seçimini yapar ve ilanı nasıl eklemek istediğini tercih eder. Tercih yapılmamışsa uygulama kullanıcıyı anasayfaya
+yönlendirir. Tercih yapıldıysa uygulama kullanıcıyı ilan detaylarına yönlendirir. Kullanıcı detayları girer, ürün detayları yanlış yazılmış ise uygulama 
+kullanıcıya hata mesajı gönderir ve kullanıcıyı ilan detayları sayfasına yönlendirir. Ürün detayları doğrul doğru yazılmış ise ilan uygulamada yayınlanır.
+Kullanıcının 2 ay içerisinde başarılı 10 alışverişi gerçekleşmiş ise Kullanıcı, Letgo ile Netflix'in işbirliği ile sağlanan ödül için aday havuzuna atılır. Uygulama
+adaylar arasından çekiliş yapar ve sonucu uygulamada duyurur. Uygulama kazanan kullanıcı ile iletişime geçer, iletişim sağlanamazsa yedek talihli ile 
+iletişime geçilir. İletişim sağlanan kullanıcı süreç ile ilgili bilgilendirilir ve kullanıcının iletişim bilgileri Netflix tarafına gönderilir. Netflix kullanıcı ile iletişime
+geçer. Seyahat ve barınma planı oluşturur ve kullanıcıyı süreç ile ilgili bilgilendirir. Belirlenen tarihte kullanıcı galada Netflix tarafından ağırlanır.

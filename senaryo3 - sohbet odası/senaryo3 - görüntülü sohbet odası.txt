@@ -1,0 +1,9 @@
+Kullanıcı uygulamaya giriş yapar. Uygulama menüsüne girer ve ilanlar sayfasından verilen ilanlar için teklif yapar. Kullanıcı
+profil bilgileri doğru değil ise uygulama kullanıcıya hata mesajı gönderir ve kullanıcıyı profil bilgilerini güncellemeye yönlen-
+dirir.Kullanıcı profil bilgilerini günceller ve profil bilgileri doğru ise teklifi satıcıya ulaşır. Teklif satıcı tarafından onaylanırsa
+Uygulama satıcı ve kullanıcının iletişimi için mesaj alanı oluşturur. bu sohbet penceresinde kullanıcı görüntülü sohbet odası
+seçeneğine basarak satıcıya görüntülü konuşma için istek de bulunur. Satıcı bu daveti kabul ederse iletişim görüntülü bir 
+şekilde devam eder. Sohbet odasında kullanıcı, satıcı tarafından satılan ürün hakkında daha detaylı bilgiye sahip olur ve 
+ürünü canlı bir şekilde gözlemler. Kullanıcı ve satıcı ürünün alışverişi konusunda anlaşmaya varırsa uygulama üzerinden 
+ürünün satıldığına/alındığına dair onay verme butonuna tıklar. Uygulama onayı kaydeder,ürünü satıldı olarak işaretler ve 
+süreç sona erer.
